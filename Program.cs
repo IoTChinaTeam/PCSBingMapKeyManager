@@ -8,7 +8,7 @@ namespace PCSBingMapKeyManager
 {
     class Program
     {
-        private const string NewKeySwitch = "/a:";
+        private const string NewKeySwitch = "/newkey:";
 
         static void Main(string[] args)
         {
